@@ -3,8 +3,10 @@ namespace pdo_testCase
 {
     public class Events
     {
-        public int Start { get; set; }
-        public int End { get; set; }
-        public string Event { get; set; }
+        public int start { get; set; }
+        public int end { get; set; }
+        public string name { get; set; }
+        public string color { get; set; }
+        public int width { get; set; }
     }
 }

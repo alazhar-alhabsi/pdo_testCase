@@ -1,4 +1,4 @@
-﻿{
+{
   "$schema": "http://json.schemastore.org/launchsettings.json",
   "iisSettings": {
     "windowsAuthentication": false,
@@ -11,7 +11,6 @@
   "profiles": {
     "IIS Express": {
       "commandName": "IISExpress",
-      "launchBrowser": false,
       "launchUrl": "events",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
@@ -19,7 +18,6 @@
     },
     "pdo_testCase": {
       "commandName": "Project",
-      "launchBrowser": false,
       "launchUrl": "events",
       "applicationUrl": "http://localhost:5000",
       "environmentVariables": {
